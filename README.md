@@ -7,12 +7,6 @@
   <a href="https://github.com/mayTermux/awesomeshot/releases"><img src="https://img.shields.io/github/release/mayTermux/myTermux.svg"></a>
 </p>
 
-## Video Installation
-
-> Click this thumbnail below to see video installation
-
-[![myTermux Thumbnail](https://user-images.githubusercontent.com/64394320/170211137-554dfd78-8424-4699-876c-7483b45de068.png)](https://www.youtube.com/watch?v=sYkNxK_44Zg "myTermux - Installation")
-
 ## Installation Dependecies
 
 > **Attention!**
@@ -47,7 +41,7 @@ pkg i -y git bc
   <summary><strong>Clone or Download This Repository</strong></summary>
 
 ```bash
-git clone --depth=1 https://github.com/mayTermux/myTermux.git
+git clone --depth=1 https://github.com/junaidi001/myTermux.git
 ```
 
   </details>
